@@ -3,7 +3,7 @@ Machine Learning Project-2
 
 House Price Prediction(Kaggle Competition)
 
-Dataset Link - kaggle competitions download -c house-prices-advanced-regression-techniques
+Dataset Link - https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 Required Dataset:
 1. sample_submission.csv
